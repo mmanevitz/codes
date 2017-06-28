@@ -1,0 +1,9 @@
+epsilon = 10.0
+p = 10000000
+n = 10000000
+w = 4096
+l = 250
+No. of n-grams = 4
+Gram length = 1
+Threshold = 63240.0
+numOfRunsPerDataFile = 10
